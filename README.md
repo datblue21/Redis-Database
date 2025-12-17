@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔥 MemKV
+# 🔥 Redis - Database
 
 ### A High-Performance Redis-Compatible In-Memory Database Engine
 
@@ -330,21 +330,3 @@ Auto-scaling bloom filter with error rate tightening:
 - [ ] Cluster mode support
 
 ---
-
-## 📚 References
-
-- [Redis Protocol Specification (RESP)](https://redis.io/docs/reference/protocol-spec/)
-- [Skip Lists: A Probabilistic Alternative to Balanced Trees](https://15721.courses.cs.cmu.edu/spring2018/papers/08-oltpindexes1/pugh-skiplists-cacm1990.pdf)
-- [Scalable Bloom Filters](https://gsd.di.uminho.pt/members/cbm/ps/dbloom.pdf)
-- [Count-Min Sketch](http://dimacs.rutgers.edu/~graham/pubs/papers/cm-full.pdf)
-- [Geohash Algorithm](https://en.wikipedia.org/wiki/Geohash)
-
----
-
-<div align="center">
-
-**Built with ❤️ in Go**
-
-*If you found this project helpful, please consider giving it a ⭐*
-
-</div>
